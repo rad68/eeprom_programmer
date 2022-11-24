@@ -1,6 +1,6 @@
 # Arduino NANO based EEPROM Programmer
 
-Inspired by [Ben Eater](https://github.com/beneater/eeprom-programmer with minor imporvements to make it faster.)
+Inspired by [Ben Eater](https://github.com/beneater/eeprom-programmer) with minor imporvements to make it faster.
 
 ##Changes
 1. Direct writes to the ports instead of digitalWrite()
